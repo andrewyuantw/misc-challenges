@@ -1,2 +1,4 @@
 # misc-challenges
-Repo for interesting coding challenge questions I've done
+
+### About
+This is a repo for miscellaneous coding challenge questions I've completed that seemed interesting and challenging.
